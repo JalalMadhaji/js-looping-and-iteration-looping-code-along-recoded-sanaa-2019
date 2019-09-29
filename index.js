@@ -6,11 +6,11 @@ function writeCards(names,eName){
 }
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
-function countDown(num){
+function countdown(num){
   while (num >= 0) {
     console.log(num);
     num--;
   }
 }
 
-countDown(10);
+countdown(10);
