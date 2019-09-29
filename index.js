@@ -13,4 +13,4 @@ function countDown(num){
   }
 }
 
-countdown(10);
+countDown(10);
